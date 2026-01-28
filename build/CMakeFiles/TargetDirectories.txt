@@ -1,0 +1,3 @@
+C:/labs_os/build/CMakeFiles/hello.dir
+C:/labs_os/build/CMakeFiles/edit_cache.dir
+C:/labs_os/build/CMakeFiles/rebuild_cache.dir
